@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayanksharma91
-- 👀 I’m interested in web development and data science.
+- 👀 I’m a product manager interested in web development and data science.
 - 🌱 I’m currently learning javascript, node.js, and Hugo.
   - I'm building a chat bot on Telegram which helps you remember your tiny wins.
   - I'm also building my personal website and blog using Hugo after realising that Ghost is overkill for me.
